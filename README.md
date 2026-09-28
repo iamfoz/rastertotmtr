@@ -62,7 +62,7 @@ file (`cmp`). The two differ only if you invoke them with different
 `argv[0]`, which changes the queue name in the debug output and the user-file
 lookup path.
 
-## Notes
+## Dependencies and one behaviour change
 
 * Depends on `libcups.2.dylib` and `libcupsimage.2.dylib`, both still part of
   macOS and used by Apple's own filters in `/usr/libexec/cups/filter`.
