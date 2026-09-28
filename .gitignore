@@ -1,0 +1,11 @@
+# build outputs
+/rastertotmtr
+/rastertotmtr.app/
+/*.zip
+
+# test scratch
+/test/*.bin
+/test/*.err
+/test/rastertotmtr.x86_64
+
+.DS_Store

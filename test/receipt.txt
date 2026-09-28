@@ -1,0 +1,9 @@
+        MARTYN'S OFFICE
+     123 Example Street
+   ---------------------------
+   Item A            10.00
+   Item B             2.50
+   Item C           123.45
+   ---------------------------
+   TOTAL            135.95
+   Thank you, come again!
